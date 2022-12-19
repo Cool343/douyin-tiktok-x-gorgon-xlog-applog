@@ -7,9 +7,13 @@
 > 设备注册，采集
 
 > /service/2/device_register/
-> /service/2/app_alert/?
+> 
+> /service/2/app_alert/
+> 
 > /service/2/log_settings/
+> 
 > /v1/getInfo
+> 
 > /xlog.snssdk.com/v2/r
 
 
